@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.sirwranwrap.tracetable.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sirwranwrap.tracetable.MyBundle
 
 class MyApplicationService {
 
